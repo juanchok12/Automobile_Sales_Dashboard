@@ -20,3 +20,19 @@ Recession periods:
  * What years do we see the most drastic slumps in car sales?
  * In which months do we see the highest and lowest sales of cars during the selected year?
  * What is the percentage breakdown in sales per vehicle type during the selected year?
+
+## Data Points
+1.	Date: The date of the observation.
+2.	Recession: A binary variable indicating recession period: 1 means it was a recession period, 0 means there was no recession.
+3.	Automobile_Sales: The number of vehicles sold during the period.
+4.	GDP: The per capita GDP value in USD.
+5.	Unemployment_Rate: The monthly unemployment rate.
+6.	Consumer_Confidence: A synthetic index representing consumer confidence, which can impact consumer spending and automobile purchases.
+7.	Seasonality_Weight: The weight representing the seasonality effect on automobile sales during the period.
+8.	Price: The average vehicle price during the period.
+9.	Advertising_Expenditure: The advertising expenditure of the company.
+10.	Vehicle_Type: The type of vehicles sold; Supperminicar, Smallfamiliycar, Mediumfamilycar, Executivecar, Sports.
+11.	Competition: The measure of competition in the market, such as the number of competitors or market share of major manufacturers.
+12.	Month: Month of the observation extracted from Date.
+13.	Year: Year of the observation extracted from Date.
+
