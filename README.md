@@ -38,4 +38,4 @@ Recession periods:
 
 ## Key Takeaways
  * Jfjf
-  * fgf
+   * fgf
