@@ -36,3 +36,6 @@ Recession periods:
 12.	Month: Month of the observation extracted from Date.
 13.	Year: Year of the observation extracted from Date.
 
+## Key Takeaways
+ * Jfjf
+  * fgf
