@@ -37,5 +37,11 @@ Recession periods:
 13.	Year: Year of the observation extracted from Date.
 
 ## Key Takeaways
- * Jfjf
-   * fgf
+ * The biggest retractions in car sales were during the years 1983, 2000, and 2020.
+ * The years with the highest sales of cars were 1992 and 2001.
+ * The following affordable cars dominated the great majority of market sales for cars during periods of recession on average:
+   * Medium family cars (38.4%)
+   * Small family cars (30.2%)
+   * Supper mini cars (26.7%)
+* There is a noticeable decrease in car sales when the unemployment rate surpasses 5% but it's not significant.
+* During periods of recession, sports cars suffer the lowest average sales. 
