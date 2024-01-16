@@ -13,3 +13,10 @@ Recession periods:
   *	recession period 4 - year 2000 to 2001
   *	recession period 5 - year end 2007 to mid-2009
   *	recession period 6 - year 2020 -Feb to April (Covid-19 Impact)
+
+## Research Questions and Tasks
+ * Is there a noticeable difference in sales trends between different vehicle types during recession periods?
+ * How does the unemployment rate affect the sales of cars during recession periods?
+ * What years do we see the most drastic slumps in car sales?
+ * In which months do we see the highest and lowest sales of cars during the selected year?
+ * What is the percentage breakdown in sales per vehicle type during the selected year?
